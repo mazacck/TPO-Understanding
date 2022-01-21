@@ -1,0 +1,1702 @@
+Segment,Retailer,Manufacturer,Brand,PPG_Item_No,# of consecutive missing days,# of missing instances
+Bitesize,Coles,All Other Manufacturer,Cookie Dough Bites,Item_655956000019,4+,22
+Bitesize,Coles,All Other Manufacturer,Cookie Dough Bites,Item_655956000019,Total missing days,154 days 00:00:00
+Bitesize,Coles,All Other Manufacturer,Hersheys,Item_10700021526,4+,22
+Bitesize,Coles,All Other Manufacturer,Hersheys,Item_10700021526,Total missing days,154 days 00:00:00
+Bitesize,Coles,All Other Manufacturer,Hersheys,Item_34000134106,4+,22
+Bitesize,Coles,All Other Manufacturer,Hersheys,Item_34000134106,Total missing days,154 days 00:00:00
+Bitesize,Coles,All Other Manufacturer,Junior Mints,Item_71720539446,4+,22
+Bitesize,Coles,All Other Manufacturer,Junior Mints,Item_71720539446,Total missing days,154 days 00:00:00
+Bitesize,Coles,All Other Manufacturer,Patons,Item_9315536220589,4+,22
+Bitesize,Coles,All Other Manufacturer,Patons,Item_9315536220589,Total missing days,154 days 00:00:00
+Bitesize,Coles,All Other Manufacturer,Patons,Item_9315536220596,4+,22
+Bitesize,Coles,All Other Manufacturer,Patons,Item_9315536220596,Total missing days,154 days 00:00:00
+Bitesize,Coles,All Other Manufacturer,Patons,Item_9315536220602,4+,22
+Bitesize,Coles,All Other Manufacturer,Patons,Item_9315536220602,Total missing days,154 days 00:00:00
+Bitesize,Coles,All Other Manufacturer,Patons,Item_9315536220619,4+,22
+Bitesize,Coles,All Other Manufacturer,Patons,Item_9315536220619,Total missing days,154 days 00:00:00
+Bitesize,Coles,All Other Manufacturer,Reese's,Item_34000446001,4+,22
+Bitesize,Coles,All Other Manufacturer,Reese's,Item_34000446001,Total missing days,154 days 00:00:00
+Bitesize,Coles,All Other Manufacturer,Reese's,Item_34000453504,4+,22
+Bitesize,Coles,All Other Manufacturer,Reese's,Item_34000453504,Total missing days,154 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910635,4+,8
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910635,Total missing days,56 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910642,4+,8
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910642,Total missing days,56 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910659,4+,8
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910659,Total missing days,56 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910666,4+,8
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910666,Total missing days,56 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910673,4+,8
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910673,Total missing days,56 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910697,4+,8
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910697,Total missing days,56 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910727,4+,8
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910727,Total missing days,56 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910734,4+,8
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881910734,Total missing days,56 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881965543,4+,22
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881965543,Total missing days,154 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881965550,4+,22
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881965550,Total missing days,154 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881980140,4-12,17
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881980140,12+,2
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881980140,Total missing days,147 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881980157,4-12,16
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881980157,12+,1
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881980157,Total missing days,133 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981208,4+,22
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981208,Total missing days,154 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981215,4+,22
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981215,Total missing days,154 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981222,4+,22
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981222,Total missing days,154 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981253,4+,22
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981253,Total missing days,154 days 00:00:00
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981277,4-12,14
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981277,12+,2
+Bitesize,Coles,Darrell Lea,Darrell Lea,Item_9310881981277,Total missing days,133 days 00:00:00
+Bitesize,Coles,Ferrero,Kinder,Item_8000500180709,4+,22
+Bitesize,Coles,Ferrero,Kinder,Item_8000500180709,Total missing days,154 days 00:00:00
+Bitesize,Coles,Ferrero,Kinder,Item_9300698502437,4+,22
+Bitesize,Coles,Ferrero,Kinder,Item_9300698502437,Total missing days,154 days 00:00:00
+Bitesize,Coles,Ferrero,Kinder,Item_9300698503007,4+,22
+Bitesize,Coles,Ferrero,Kinder,Item_9300698503007,Total missing days,154 days 00:00:00
+Bitesize,Coles,Lindt & Sprungli,Lindt,Item_3046920045308,4+,22
+Bitesize,Coles,Lindt & Sprungli,Lindt,Item_3046920045308,Total missing days,154 days 00:00:00
+Bitesize,Coles,Lindt & Sprungli,Lindt,Item_3046920045315,4+,22
+Bitesize,Coles,Lindt & Sprungli,Lindt,Item_3046920045315,Total missing days,154 days 00:00:00
+Bitesize,Coles,Lindt & Sprungli,Lindt,Item_3046920047593,4+,22
+Bitesize,Coles,Lindt & Sprungli,Lindt,Item_3046920047593,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Galaxy,Item_5000159503785,4+,22
+Bitesize,Coles,Mars Wrigley,Galaxy,Item_5000159503785,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682013376,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682013376,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682015479,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682015479,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682026079,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682026079,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682036009,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682036009,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682036047,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682036047,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682037280,Total missing days,0 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682039017,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682039017,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047623,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047623,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047647,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047647,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047661,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047661,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047685,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047685,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047746,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047746,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047869,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682047869,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682050142,4+,22
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682050142,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682052115,4-12,5
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682052115,12+,4
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682052115,Total missing days,126 days 00:00:00
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682054539,4+,11
+Bitesize,Coles,Mars Wrigley,M&M's,Item_9300682054539,Total missing days,77 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682002134,4+,22
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682002134,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682035989,4+,22
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682035989,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682047036,4-12,9
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682047036,12+,4
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682047036,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682047067,4+,17
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682047067,Total missing days,119 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682047524,4+,22
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682047524,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682049993,4+,22
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682049993,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682051750,4+,17
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682051750,Total missing days,119 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682053105,4+,22
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682053105,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682053136,4-12,8
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682053136,12+,1
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682053136,Total missing days,147 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682053648,4+,22
+Bitesize,Coles,Mars Wrigley,Maltesers,Item_9300682053648,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Mars,Item_9300682049924,4+,22
+Bitesize,Coles,Mars Wrigley,Mars,Item_9300682049924,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682030892,4+,22
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682030892,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682030915,4+,22
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682030915,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682030939,4+,22
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682030939,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682036061,4+,22
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682036061,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682036108,4+,22
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682036108,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682040495,4+,22
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682040495,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682040518,4-12,20
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682040518,12+,1
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682040518,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682047944,4+,22
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682047944,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682048002,4+,22
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682048002,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682048033,4+,22
+Bitesize,Coles,Mars Wrigley,Pods,Item_9300682048033,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mars Wrigley,Snickers,Item_9300682049931,4+,22
+Bitesize,Coles,Mars Wrigley,Snickers,Item_9300682049931,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mondelez,Boost,Item_9300617069904,4+,22
+Bitesize,Coles,Mondelez,Boost,Item_9300617069904,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_7622210986665,4+,15
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_7622210986665,Total missing days,105 days 00:00:00
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9300617042983,4+,22
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9300617042983,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9300617060994,4-12,20
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9300617060994,12+,1
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9300617060994,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9300617065777,4+,10
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9300617065777,Total missing days,70 days 00:00:00
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9300617071952,4-12,18
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9300617071952,12+,2
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9300617071952,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9400550005219,4+,22
+Bitesize,Coles,Mondelez,Cadbury Purple,Item_9400550005219,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mondelez,Crunchie,Item_9300617073611,4+,14
+Bitesize,Coles,Mondelez,Crunchie,Item_9300617073611,Total missing days,98 days 00:00:00
+Bitesize,Coles,Mondelez,Curly Wurly,Item_9300617069867,4+,22
+Bitesize,Coles,Mondelez,Curly Wurly,Item_9300617069867,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mondelez,Flake,Item_9300617426653,4+,22
+Bitesize,Coles,Mondelez,Flake,Item_9300617426653,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mondelez,Freddo,Item_9300617036357,4+,22
+Bitesize,Coles,Mondelez,Freddo,Item_9300617036357,Total missing days,154 days 00:00:00
+Bitesize,Coles,Mondelez,Twirl,Item_9300617060963,4+,22
+Bitesize,Coles,Mondelez,Twirl,Item_9300617060963,Total missing days,154 days 00:00:00
+Bitesize,Coles,Nestle,Allens,Item_9300605056770,4+,22
+Bitesize,Coles,Nestle,Allens,Item_9300605056770,Total missing days,154 days 00:00:00
+Bitesize,Coles,Nestle,Allens,Item_9300605096837,4+,22
+Bitesize,Coles,Nestle,Allens,Item_9300605096837,Total missing days,154 days 00:00:00
+Bitesize,Coles,Nestle,Allens,Item_9300605116337,4+,22
+Bitesize,Coles,Nestle,Allens,Item_9300605116337,Total missing days,154 days 00:00:00
+Bitesize,Coles,Nestle,Butterfinger,Item_28000130008,4+,22
+Bitesize,Coles,Nestle,Butterfinger,Item_28000130008,Total missing days,154 days 00:00:00
+Bitesize,Coles,Nestle,Smarties,Item_9300605251489,4+,22
+Bitesize,Coles,Nestle,Smarties,Item_9300605251489,Total missing days,154 days 00:00:00
+Bitesize,Coles,Nestle,Smarties,Item_9300605251939,4+,22
+Bitesize,Coles,Nestle,Smarties,Item_9300605251939,Total missing days,154 days 00:00:00
+Bitesize,Coles,Private Label,Coles,Item_9310645102443,4+,22
+Bitesize,Coles,Private Label,Coles,Item_9310645102443,Total missing days,154 days 00:00:00
+Bitesize,Coles,Private Label,Coles,Item_9310645102450,4+,22
+Bitesize,Coles,Private Label,Coles,Item_9310645102450,Total missing days,154 days 00:00:00
+Bitesize,Coles,Private Label,Coles,Item_9310645102467,4+,22
+Bitesize,Coles,Private Label,Coles,Item_9310645102467,Total missing days,154 days 00:00:00
+Bitesize,Coles,Private Label,Coles,Item_9310645118598,4+,22
+Bitesize,Coles,Private Label,Coles,Item_9310645118598,Total missing days,154 days 00:00:00
+Bitesize,Coles,Private Label,Coles,Item_9310645259710,4+,7
+Bitesize,Coles,Private Label,Coles,Item_9310645259710,Total missing days,49 days 00:00:00
+Bitesize,Coles,Private Label,Coles,Item_9310645259727,4+,7
+Bitesize,Coles,Private Label,Coles,Item_9310645259727,Total missing days,49 days 00:00:00
+Bitesize,Coles,Robern Menz,Menz,Item_9312211010114,4+,22
+Bitesize,Coles,Robern Menz,Menz,Item_9312211010114,Total missing days,154 days 00:00:00
+Bitesize,Coles,Robern Menz,Menz,Item_9312211106107,4+,22
+Bitesize,Coles,Robern Menz,Menz,Item_9312211106107,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,All Other Manufacturer,Hersheys,Item_34000134106,4+,22
+Bitesize,Woolworths,All Other Manufacturer,Hersheys,Item_34000134106,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,All Other Manufacturer,Mcvities,Item_5000168214108,4+,16
+Bitesize,Woolworths,All Other Manufacturer,Mcvities,Item_5000168214108,Total missing days,112 days 00:00:00
+Bitesize,Woolworths,All Other Manufacturer,Mcvities,Item_5000168214122,4+,16
+Bitesize,Woolworths,All Other Manufacturer,Mcvities,Item_5000168214122,Total missing days,112 days 00:00:00
+Bitesize,Woolworths,All Other Manufacturer,Ovalteenies,Item_7612100120606,4+,22
+Bitesize,Woolworths,All Other Manufacturer,Ovalteenies,Item_7612100120606,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,All Other Manufacturer,Reese's,Item_34000116010,Total missing days,0 days 00:00:00
+Bitesize,Woolworths,All Other Manufacturer,Reese's,Item_34000446001,4+,22
+Bitesize,Woolworths,All Other Manufacturer,Reese's,Item_34000446001,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,All Other Manufacturer,Sweet Season,Item_9327776000982,4+,22
+Bitesize,Woolworths,All Other Manufacturer,Sweet Season,Item_9327776000982,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910253,4-12,17
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910253,12+,1
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910253,Total missing days,147 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910635,4+,16
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910635,Total missing days,112 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910642,4+,16
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910642,Total missing days,112 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910659,4+,16
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910659,Total missing days,112 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910727,4+,15
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910727,Total missing days,105 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910734,4+,16
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910734,Total missing days,112 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910833,4+,16
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910833,Total missing days,112 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881965543,4+,22
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881965543,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881965550,Total missing days,0 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881965598,4+,22
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881965598,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981208,4-12,16
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981208,12+,2
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981208,Total missing days,140 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981215,4+,20
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981215,Total missing days,140 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981253,4-12,7
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981253,12+,3
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981253,Total missing days,147 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981277,4-12,1
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981277,12+,2
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981277,Total missing days,119 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981291,4-12,16
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981291,12+,3
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981291,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981307,4-12,12
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981307,12+,1
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881981307,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881985268,4+,19
+Bitesize,Woolworths,Darrell Lea,Darrell Lea,Item_9310881985268,Total missing days,133 days 00:00:00
+Bitesize,Woolworths,Ferrero,Kinder,Item_8000500180709,4+,22
+Bitesize,Woolworths,Ferrero,Kinder,Item_8000500180709,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Lindt & Sprungli,Lindt,Item_3046920045308,4+,22
+Bitesize,Woolworths,Lindt & Sprungli,Lindt,Item_3046920045308,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Lindt & Sprungli,Lindt,Item_3046920045315,4+,22
+Bitesize,Woolworths,Lindt & Sprungli,Lindt,Item_3046920045315,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Lindt & Sprungli,Lindt,Item_3046920047593,4+,22
+Bitesize,Woolworths,Lindt & Sprungli,Lindt,Item_3046920047593,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Galaxy,Item_5000159503853,4+,22
+Bitesize,Woolworths,Mars Wrigley,Galaxy,Item_5000159503853,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682013376,4+,22
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682013376,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682026079,4+,22
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682026079,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682037280,Total missing days,0 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047623,4+,22
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047623,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047647,4+,22
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047647,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047661,4+,22
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047661,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047685,4+,22
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047685,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047746,4+,22
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047746,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047869,4+,22
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682047869,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682050142,4+,22
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682050142,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682051248,12+,1
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682051248,Total missing days,21 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682052115,4-12,17
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682052115,12+,2
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682052115,Total missing days,147 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682052535,4+,22
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682052535,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682054263,4+,17
+Bitesize,Woolworths,Mars Wrigley,M&M's,Item_9300682054263,Total missing days,119 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682002134,4+,22
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682002134,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682047036,12+,1
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682047036,Total missing days,14 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682047524,4+,22
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682047524,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682049993,4+,22
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682049993,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682051750,4-12,4
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682051750,12+,1
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682051750,Total missing days,49 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682053105,4+,22
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682053105,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682053136,4+,22
+Bitesize,Woolworths,Mars Wrigley,Maltesers,Item_9300682053136,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Mars,Item_9300682049924,4-12,20
+Bitesize,Woolworths,Mars Wrigley,Mars,Item_9300682049924,12+,1
+Bitesize,Woolworths,Mars Wrigley,Mars,Item_9300682049924,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682036061,4+,22
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682036061,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682036108,4+,22
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682036108,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682047944,4+,22
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682047944,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682048002,4+,22
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682048002,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682048033,4+,22
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682048033,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682048064,Total missing days,0 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682050050,12+,4
+Bitesize,Woolworths,Mars Wrigley,Pods,Item_9300682050050,Total missing days,133 days 00:00:00
+Bitesize,Woolworths,Mars Wrigley,Snickers,Item_9300682049931,4+,22
+Bitesize,Woolworths,Mars Wrigley,Snickers,Item_9300682049931,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mondelez,Cadbury Purple,Item_9300617042877,Total missing days,0 days 00:00:00
+Bitesize,Woolworths,Mondelez,Cadbury Purple,Item_9300617042884,12+,1
+Bitesize,Woolworths,Mondelez,Cadbury Purple,Item_9300617042884,Total missing days,140 days 00:00:00
+Bitesize,Woolworths,Mondelez,Cadbury Purple,Item_9300617042983,4+,22
+Bitesize,Woolworths,Mondelez,Cadbury Purple,Item_9300617042983,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mondelez,Cadbury Purple,Item_9300617071952,Total missing days,0 days 00:00:00
+Bitesize,Woolworths,Mondelez,Cadbury Purple,Item_9400550005219,4+,22
+Bitesize,Woolworths,Mondelez,Cadbury Purple,Item_9400550005219,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mondelez,Crunchie,Item_9300617073611,4+,16
+Bitesize,Woolworths,Mondelez,Crunchie,Item_9300617073611,Total missing days,112 days 00:00:00
+Bitesize,Woolworths,Mondelez,Curly Wurly,Item_9300617069867,4+,16
+Bitesize,Woolworths,Mondelez,Curly Wurly,Item_9300617069867,Total missing days,112 days 00:00:00
+Bitesize,Woolworths,Mondelez,Flake,Item_9300617426653,4+,22
+Bitesize,Woolworths,Mondelez,Flake,Item_9300617426653,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mondelez,Freddo,Item_9300617036357,4+,22
+Bitesize,Woolworths,Mondelez,Freddo,Item_9300617036357,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Mondelez,Twirl,Item_9300617060963,4-12,5
+Bitesize,Woolworths,Mondelez,Twirl,Item_9300617060963,12+,5
+Bitesize,Woolworths,Mondelez,Twirl,Item_9300617060963,Total missing days,140 days 00:00:00
+Bitesize,Woolworths,Nestle,Allens,Item_9300605056770,4+,22
+Bitesize,Woolworths,Nestle,Allens,Item_9300605056770,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Nestle,Allens,Item_9300605096837,4+,22
+Bitesize,Woolworths,Nestle,Allens,Item_9300605096837,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Nestle,Allens,Item_9300605116337,4+,22
+Bitesize,Woolworths,Nestle,Allens,Item_9300605116337,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Nestle,Smarties,Item_9300605251939,4+,22
+Bitesize,Woolworths,Nestle,Smarties,Item_9300605251939,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Private Label,Homebrand,Item_9300633373900,4+,22
+Bitesize,Woolworths,Private Label,Homebrand,Item_9300633373900,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Private Label,Woolworths Select,Item_9300633522513,4+,22
+Bitesize,Woolworths,Private Label,Woolworths Select,Item_9300633522513,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Private Label,Woolworths Select,Item_9300633522520,4+,22
+Bitesize,Woolworths,Private Label,Woolworths Select,Item_9300633522520,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Private Label,Woolworths Select,Item_9300633522537,4+,22
+Bitesize,Woolworths,Private Label,Woolworths Select,Item_9300633522537,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Robern Menz,Menz,Item_9312211010114,4+,22
+Bitesize,Woolworths,Robern Menz,Menz,Item_9312211010114,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Robern Menz,Menz,Item_9312211106107,4+,22
+Bitesize,Woolworths,Robern Menz,Menz,Item_9312211106107,Total missing days,154 days 00:00:00
+Bitesize,Woolworths,Robern Menz,Menz,Item_9312211108460,Total missing days,0 days 00:00:00
+Block,Coles,All Other Manufacturer,Arnott's,Item_9310072031170,4+,1
+Block,Coles,All Other Manufacturer,Arnott's,Item_9310072031170,Total missing days,7 days 00:00:00
+Block,Coles,All Other Manufacturer,Arnott's,Item_9310072031194,4+,1
+Block,Coles,All Other Manufacturer,Arnott's,Item_9310072031194,Total missing days,7 days 00:00:00
+Block,Coles,All Other Manufacturer,Arnott's,Item_9310072031200,4+,1
+Block,Coles,All Other Manufacturer,Arnott's,Item_9310072031200,Total missing days,7 days 00:00:00
+Block,Coles,All Other Manufacturer,Arnott's,Item_9310072031217,4+,1
+Block,Coles,All Other Manufacturer,Arnott's,Item_9310072031217,Total missing days,7 days 00:00:00
+Block,Coles,All Other Manufacturer,Arnott's,Item_9310072031224,4+,1
+Block,Coles,All Other Manufacturer,Arnott's,Item_9310072031224,Total missing days,7 days 00:00:00
+Block,Coles,All Other Manufacturer,Coulsons,Item_9349644000016,4+,22
+Block,Coles,All Other Manufacturer,Coulsons,Item_9349644000016,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Perugina,Item_8000300324495,4+,22
+Block,Coles,All Other Manufacturer,Perugina,Item_8000300324495,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Perugina,Item_8000300349870,4-12,20
+Block,Coles,All Other Manufacturer,Perugina,Item_8000300349870,12+,1
+Block,Coles,All Other Manufacturer,Perugina,Item_8000300349870,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Sweet Williams,Item_9311259421883,4+,22
+Block,Coles,All Other Manufacturer,Sweet Williams,Item_9311259421883,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Sweet Williams,Item_9311259422033,4+,22
+Block,Coles,All Other Manufacturer,Sweet Williams,Item_9311259422033,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142000852,4+,22
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142000852,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142000883,4+,22
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142000883,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142001231,4+,22
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142001231,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142001309,4+,22
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142001309,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142002245,4+,22
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142002245,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142004652,4+,22
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142004652,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142004713,4+,22
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142004713,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142004836,4+,22
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142004836,Total missing days,154 days 00:00:00
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142004843,4+,22
+Block,Coles,All Other Manufacturer,Whittakers,Item_9403142004843,Total missing days,154 days 00:00:00
+Block,Coles,Darrell Lea,Darrell Lea,Item_9310881100579,4+,22
+Block,Coles,Darrell Lea,Darrell Lea,Item_9310881100579,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920004909,4-12,1
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920004909,12+,3
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920004909,Total missing days,49 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920022538,4+,22
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920022538,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920022545,4+,22
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920022545,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920022569,4+,22
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920022569,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920044653,4+,22
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920044653,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920044752,4+,22
+Block,Coles,Lindt & Sprungli,Lindt,Item_3046920044752,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920010047,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920010047,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920010382,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920010382,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920010603,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920010603,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920010801,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920010801,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920011013,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920011013,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920017503,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920017503,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920027267,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920027267,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920027281,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920027281,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920028004,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920028004,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920028363,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920028363,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920028370,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920028370,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920028721,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920028721,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920028752,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920028752,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920029674,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920029674,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920029698,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920029698,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920029780,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920029780,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920084000,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920084000,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920091435,4-12,20
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920091435,12+,1
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_3046920091435,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_7610400068833,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_7610400068833,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_7610400070577,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_7610400070577,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_9542009984,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_9542009984,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_9542045371,4+,1
+Block,Coles,Lindt & Sprungli,Lindt Excellence,Item_9542045371,Total missing days,7 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Lindor,Item_7610400014632,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Lindor,Item_7610400014632,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Lindor,Item_7610400014649,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Lindor,Item_7610400014649,Total missing days,154 days 00:00:00
+Block,Coles,Lindt & Sprungli,Lindt Lindor,Item_7610400074193,4+,22
+Block,Coles,Lindt & Sprungli,Lindt Lindor,Item_7610400074193,Total missing days,154 days 00:00:00
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049283,4+,22
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049283,Total missing days,154 days 00:00:00
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049290,4+,22
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049290,Total missing days,154 days 00:00:00
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049306,4+,22
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049306,Total missing days,154 days 00:00:00
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049313,4-12,14
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049313,12+,2
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049313,Total missing days,154 days 00:00:00
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049320,4-12,18
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049320,12+,1
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049320,Total missing days,140 days 00:00:00
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049337,4+,22
+Block,Coles,Mars Wrigley,M&M's,Item_9300682049337,Total missing days,154 days 00:00:00
+Block,Coles,Mars Wrigley,M&M's,Item_9300682051415,4+,22
+Block,Coles,Mars Wrigley,M&M's,Item_9300682051415,Total missing days,154 days 00:00:00
+Block,Coles,Mars Wrigley,M&M's,Item_9300682051422,4+,22
+Block,Coles,Mars Wrigley,M&M's,Item_9300682051422,Total missing days,154 days 00:00:00
+Block,Coles,Mars Wrigley,M&M's,Item_9300682054362,4+,1
+Block,Coles,Mars Wrigley,M&M's,Item_9300682054362,Total missing days,7 days 00:00:00
+Block,Coles,Mars Wrigley,Maltesers,Item_9300682052061,4+,2
+Block,Coles,Mars Wrigley,Maltesers,Item_9300682052061,Total missing days,14 days 00:00:00
+Block,Coles,Mars Wrigley,Maltesers,Item_9300682052092,4+,2
+Block,Coles,Mars Wrigley,Maltesers,Item_9300682052092,Total missing days,14 days 00:00:00
+Block,Coles,Mondelez,Boost,Item_9300617067269,4+,14
+Block,Coles,Mondelez,Boost,Item_9300617067269,Total missing days,98 days 00:00:00
+Block,Coles,Mondelez,Boost,Item_9300617067474,4+,22
+Block,Coles,Mondelez,Boost,Item_9300617067474,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617046806,4+,22
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617046806,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617046844,4+,22
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617046844,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617046882,4+,22
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617046882,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617046929,4+,22
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617046929,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617052418,4-12,20
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617052418,12+,1
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617052418,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617053729,4+,22
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617053729,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617056461,4-12,13
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617056461,12+,3
+Block,Coles,Mondelez,Cadbury Coco,Item_9300617056461,Total missing days,147 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617000556,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617000556,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617003328,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617003328,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617021902,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617021902,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617022008,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617022008,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041092,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041092,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041177,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041177,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041184,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041184,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041207,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041207,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041214,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041214,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041221,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041221,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041238,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041238,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041245,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041245,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041252,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041252,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041269,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041269,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041276,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041276,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041283,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617041283,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617044673,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617044673,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617051220,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617051220,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617051732,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617051732,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617055914,12+,2
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617055914,Total missing days,98 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617056546,Total missing days,0 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617056645,4-12,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617056645,12+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617056645,Total missing days,21 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617057925,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617057925,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058014,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058014,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058106,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058106,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058663,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058663,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058717,4-12,20
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058717,12+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058717,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058762,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058762,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058816,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617058816,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617059615,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617059615,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617059646,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617059646,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617059714,4-12,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617059714,12+,6
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617059714,Total missing days,140 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617062554,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617062554,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617063735,4+,13
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617063735,Total missing days,91 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617063780,4+,11
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617063780,Total missing days,77 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064121,4+,12
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064121,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064220,4-12,11
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064220,12+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064220,Total missing days,91 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064527,4-12,11
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064527,12+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064527,Total missing days,98 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064626,4-12,7
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064626,12+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064626,Total missing days,77 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064725,4-12,7
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064725,12+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064725,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064770,4-12,11
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064770,12+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064770,Total missing days,98 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064879,4-12,10
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064879,12+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064879,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064923,4+,7
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064923,Total missing days,49 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064978,4+,9
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617064978,Total missing days,63 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065029,4+,10
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065029,Total missing days,70 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065074,4+,12
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065074,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065128,4+,11
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065128,Total missing days,77 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065173,4+,12
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065173,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065227,4+,11
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065227,Total missing days,77 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065272,4+,10
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065272,Total missing days,70 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065326,4+,9
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065326,Total missing days,63 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065371,4+,11
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065371,Total missing days,77 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065470,4+,12
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065470,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065722,4+,10
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617065722,Total missing days,70 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617070085,Total missing days,0 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617070498,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617070498,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617070740,4-12,17
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617070740,12+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617070740,Total missing days,133 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617070887,4-12,17
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617070887,12+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617070887,Total missing days,133 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617071624,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617071624,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617073987,4+,3
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617073987,Total missing days,21 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617074007,4+,4
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617074007,Total missing days,28 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617074564,4+,17
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617074564,Total missing days,119 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617074786,4+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617074786,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075363,4+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075363,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075424,4+,2
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075424,Total missing days,14 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075448,4+,2
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075448,Total missing days,14 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075462,4+,2
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075462,Total missing days,14 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075486,4+,1
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075486,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075509,4+,4
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617075509,Total missing days,28 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617409885,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617409885,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617409908,4+,22
+Block,Coles,Mondelez,Cadbury Purple,Item_9300617409908,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Crunchie,Item_9300617065425,4+,13
+Block,Coles,Mondelez,Crunchie,Item_9300617065425,Total missing days,91 days 00:00:00
+Block,Coles,Mondelez,Crunchie,Item_9300617069799,4+,22
+Block,Coles,Mondelez,Crunchie,Item_9300617069799,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Crunchie,Item_9300617071662,4+,22
+Block,Coles,Mondelez,Crunchie,Item_9300617071662,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Dream,Item_9300617041115,4+,22
+Block,Coles,Mondelez,Dream,Item_9300617041115,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Dream,Item_9300617066361,4+,10
+Block,Coles,Mondelez,Dream,Item_9300617066361,Total missing days,70 days 00:00:00
+Block,Coles,Mondelez,Freddo,Item_9300617056331,4+,22
+Block,Coles,Mondelez,Freddo,Item_9300617056331,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Freddo,Item_9300617062998,4-12,8
+Block,Coles,Mondelez,Freddo,Item_9300617062998,12+,3
+Block,Coles,Mondelez,Freddo,Item_9300617062998,Total missing days,140 days 00:00:00
+Block,Coles,Mondelez,Freddo,Item_9300617064671,4-12,9
+Block,Coles,Mondelez,Freddo,Item_9300617064671,12+,1
+Block,Coles,Mondelez,Freddo,Item_9300617064671,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Freddo,Item_9300617065524,4+,13
+Block,Coles,Mondelez,Freddo,Item_9300617065524,Total missing days,91 days 00:00:00
+Block,Coles,Mondelez,Freddo,Item_9300617065579,4+,12
+Block,Coles,Mondelez,Freddo,Item_9300617065579,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Freddo,Item_9300617070009,4+,22
+Block,Coles,Mondelez,Freddo,Item_9300617070009,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Freddo,Item_9300617070238,4+,22
+Block,Coles,Mondelez,Freddo,Item_9300617070238,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_5011835100211,4-12,20
+Block,Coles,Mondelez,Green & Blacks,Item_5011835100211,12+,1
+Block,Coles,Mondelez,Green & Blacks,Item_5011835100211,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_5011835103946,4+,22
+Block,Coles,Mondelez,Green & Blacks,Item_5011835103946,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_5011835103953,4+,22
+Block,Coles,Mondelez,Green & Blacks,Item_5011835103953,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_5011835104356,4+,22
+Block,Coles,Mondelez,Green & Blacks,Item_5011835104356,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074175,4+,1
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074175,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074199,4+,1
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074199,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074281,4+,1
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074281,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074342,4+,1
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074342,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074359,4+,1
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074359,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074465,4+,1
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074465,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074489,4+,1
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074489,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074502,4+,1
+Block,Coles,Mondelez,Green & Blacks,Item_9300617074502,Total missing days,7 days 00:00:00
+Block,Coles,Mondelez,Milka,Item_3045140105502,4+,22
+Block,Coles,Mondelez,Milka,Item_3045140105502,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Milka,Item_7622210078100,4+,22
+Block,Coles,Mondelez,Milka,Item_7622210078100,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Moro,Item_9300617065623,4-12,10
+Block,Coles,Mondelez,Moro,Item_9300617065623,12+,1
+Block,Coles,Mondelez,Moro,Item_9300617065623,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Moro,Item_9300617067511,4+,22
+Block,Coles,Mondelez,Moro,Item_9300617067511,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Old Gold,Item_9300617041061,4+,22
+Block,Coles,Mondelez,Old Gold,Item_9300617041061,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Old Gold,Item_9300617041078,4+,22
+Block,Coles,Mondelez,Old Gold,Item_9300617041078,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Old Gold,Item_9300617041146,4+,22
+Block,Coles,Mondelez,Old Gold,Item_9300617041146,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Old Gold,Item_9300617041153,4+,22
+Block,Coles,Mondelez,Old Gold,Item_9300617041153,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Old Gold,Item_9300617041160,4+,22
+Block,Coles,Mondelez,Old Gold,Item_9300617041160,Total missing days,154 days 00:00:00
+Block,Coles,Mondelez,Old Gold,Item_9300617065876,4-12,11
+Block,Coles,Mondelez,Old Gold,Item_9300617065876,12+,1
+Block,Coles,Mondelez,Old Gold,Item_9300617065876,Total missing days,91 days 00:00:00
+Block,Coles,Mondelez,Old Gold,Item_9300617065920,4+,12
+Block,Coles,Mondelez,Old Gold,Item_9300617065920,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Old Gold,Item_9300617065975,4+,10
+Block,Coles,Mondelez,Old Gold,Item_9300617065975,Total missing days,70 days 00:00:00
+Block,Coles,Mondelez,Old Gold,Item_9300617066026,4+,10
+Block,Coles,Mondelez,Old Gold,Item_9300617066026,Total missing days,70 days 00:00:00
+Block,Coles,Mondelez,Old Gold,Item_9300617066071,4+,12
+Block,Coles,Mondelez,Old Gold,Item_9300617066071,Total missing days,84 days 00:00:00
+Block,Coles,Mondelez,Picnic,Item_9300617067443,4+,22
+Block,Coles,Mondelez,Picnic,Item_9300617067443,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Aero,Item_9300605062559,4+,22
+Block,Coles,Nestle,Aero,Item_9300605062559,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Allens,Item_9300605116917,4+,22
+Block,Coles,Nestle,Allens,Item_9300605116917,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Allens,Item_9300605123250,4+,22
+Block,Coles,Nestle,Allens,Item_9300605123250,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Crunch,Item_9300684104652,4+,22
+Block,Coles,Nestle,Crunch,Item_9300684104652,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605030527,4+,22
+Block,Coles,Nestle,Kit Kat,Item_9300605030527,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605096134,4+,22
+Block,Coles,Nestle,Kit Kat,Item_9300605096134,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605099517,4+,15
+Block,Coles,Nestle,Kit Kat,Item_9300605099517,Total missing days,105 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605111363,4+,22
+Block,Coles,Nestle,Kit Kat,Item_9300605111363,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605112391,4-12,13
+Block,Coles,Nestle,Kit Kat,Item_9300605112391,12+,3
+Block,Coles,Nestle,Kit Kat,Item_9300605112391,Total missing days,133 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605112414,4+,19
+Block,Coles,Nestle,Kit Kat,Item_9300605112414,Total missing days,133 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605112704,4-12,18
+Block,Coles,Nestle,Kit Kat,Item_9300605112704,12+,2
+Block,Coles,Nestle,Kit Kat,Item_9300605112704,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605112728,4+,1
+Block,Coles,Nestle,Kit Kat,Item_9300605112728,Total missing days,7 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605113732,4-12,15
+Block,Coles,Nestle,Kit Kat,Item_9300605113732,12+,2
+Block,Coles,Nestle,Kit Kat,Item_9300605113732,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605117563,4+,22
+Block,Coles,Nestle,Kit Kat,Item_9300605117563,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605117587,4+,22
+Block,Coles,Nestle,Kit Kat,Item_9300605117587,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605123014,4+,22
+Block,Coles,Nestle,Kit Kat,Item_9300605123014,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Kit Kat,Item_9300605123984,4+,15
+Block,Coles,Nestle,Kit Kat,Item_9300605123984,Total missing days,105 days 00:00:00
+Block,Coles,Nestle,Milky Bar,Item_9300605061828,4+,22
+Block,Coles,Nestle,Milky Bar,Item_9300605061828,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Milky Bar,Item_9300605120457,4+,22
+Block,Coles,Nestle,Milky Bar,Item_9300605120457,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Milky Bar,Item_9300605228771,4+,22
+Block,Coles,Nestle,Milky Bar,Item_9300605228771,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Rolo,Item_9300684108858,4+,1
+Block,Coles,Nestle,Rolo,Item_9300684108858,Total missing days,7 days 00:00:00
+Block,Coles,Nestle,Smarties,Item_9300605037649,4+,22
+Block,Coles,Nestle,Smarties,Item_9300605037649,Total missing days,154 days 00:00:00
+Block,Coles,Nestle,Smarties,Item_9300605099302,4+,1
+Block,Coles,Nestle,Smarties,Item_9300605099302,Total missing days,7 days 00:00:00
+Block,Coles,Nestle,Violet Crumble,Item_9312211108972,4+,9
+Block,Coles,Nestle,Violet Crumble,Item_9312211108972,Total missing days,63 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9300601769285,4+,22
+Block,Coles,Private Label,Coles,Item_9300601769285,Total missing days,154 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645091716,4+,22
+Block,Coles,Private Label,Coles,Item_9310645091716,Total missing days,154 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645091723,4+,22
+Block,Coles,Private Label,Coles,Item_9310645091723,Total missing days,154 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645091730,4+,22
+Block,Coles,Private Label,Coles,Item_9310645091730,Total missing days,154 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645118703,4+,22
+Block,Coles,Private Label,Coles,Item_9310645118703,Total missing days,154 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645118710,4+,22
+Block,Coles,Private Label,Coles,Item_9310645118710,Total missing days,154 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645118727,4+,22
+Block,Coles,Private Label,Coles,Item_9310645118727,Total missing days,154 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645118734,4+,22
+Block,Coles,Private Label,Coles,Item_9310645118734,Total missing days,154 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645207186,4+,22
+Block,Coles,Private Label,Coles,Item_9310645207186,Total missing days,154 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645221397,Total missing days,0 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645245386,4+,1
+Block,Coles,Private Label,Coles,Item_9310645245386,Total missing days,7 days 00:00:00
+Block,Coles,Private Label,Coles,Item_9310645259185,4+,1
+Block,Coles,Private Label,Coles,Item_9310645259185,Total missing days,7 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500630161,4+,22
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500630161,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500654570,4+,22
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500654570,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500659117,4+,22
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500659117,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500659124,4+,22
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500659124,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500661509,4+,22
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500661509,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500661516,4+,22
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500661516,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500661523,4+,22
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500661523,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500661790,4+,22
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500661790,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500663312,4+,22
+Block,Woolworths,All Other Manufacturer,Frey,Item_7616500663312,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Ritter,Item_4000417020000,4+,22
+Block,Woolworths,All Other Manufacturer,Ritter,Item_4000417020000,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Ritter,Item_4000417021007,4+,22
+Block,Woolworths,All Other Manufacturer,Ritter,Item_4000417021007,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Sweet Williams,Item_9311259421883,Total missing days,0 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Sweet Williams,Item_9311259422033,Total missing days,0 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142000852,Total missing days,0 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002221,4+,22
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002221,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002269,4+,22
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002269,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002276,4+,22
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002276,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002337,4+,2
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002337,Total missing days,14 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002351,12+,1
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002351,Total missing days,84 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002375,4+,22
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142002375,Total missing days,154 days 00:00:00
+Block,Woolworths,All Other Manufacturer,Whittakers,Item_9403142004843,Total missing days,0 days 00:00:00
+Block,Woolworths,Darrell Lea,Darrell Lea,Item_9310881100579,4-12,3
+Block,Woolworths,Darrell Lea,Darrell Lea,Item_9310881100579,12+,4
+Block,Woolworths,Darrell Lea,Darrell Lea,Item_9310881100579,Total missing days,133 days 00:00:00
+Block,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910932,Total missing days,0 days 00:00:00
+Block,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910949,Total missing days,0 days 00:00:00
+Block,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910956,Total missing days,0 days 00:00:00
+Block,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910963,Total missing days,0 days 00:00:00
+Block,Woolworths,Darrell Lea,Darrell Lea,Item_9310881910970,Total missing days,0 days 00:00:00
+Block,Woolworths,Darrell Lea,Darrell Lea,Item_9310881911069,Total missing days,0 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_3046920022538,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_3046920022538,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_3046920022545,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_3046920022545,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_3046920022569,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_3046920022569,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_3046920044752,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_3046920044752,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_8013108697005,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_8013108697005,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_8013108697012,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt,Item_8013108697012,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920010047,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920010047,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920010382,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920010382,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920010603,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920010603,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920010801,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920010801,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920011013,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920011013,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920027281,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920027281,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920028004,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920028004,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920028363,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920028363,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920028370,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920028370,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920028752,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920028752,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920029674,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920029674,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920029698,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920029698,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920029780,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920029780,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920084000,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920084000,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920091435,4-12,15
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920091435,12+,3
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_3046920091435,Total missing days,147 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_7610400068833,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_7610400068833,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_7610400070577,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_7610400070577,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_9542009984,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_9542009984,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Excellence,Item_9542045371,Total missing days,0 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Lindor,Item_7610400014632,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Lindor,Item_7610400014632,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Lindor,Item_7610400014649,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Lindor,Item_7610400014649,Total missing days,154 days 00:00:00
+Block,Woolworths,Lindt & Sprungli,Lindt Lindor,Item_7610400074193,4+,22
+Block,Woolworths,Lindt & Sprungli,Lindt Lindor,Item_7610400074193,Total missing days,154 days 00:00:00
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049283,4+,22
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049283,Total missing days,154 days 00:00:00
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049290,4-12,2
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049290,12+,3
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049290,Total missing days,140 days 00:00:00
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049306,4+,22
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049306,Total missing days,154 days 00:00:00
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049313,4-12,1
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049313,12+,4
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049313,Total missing days,119 days 00:00:00
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049337,4+,22
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682049337,Total missing days,154 days 00:00:00
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682051415,4+,22
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682051415,Total missing days,154 days 00:00:00
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682051422,4-12,2
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682051422,12+,3
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682051422,Total missing days,154 days 00:00:00
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682051439,4+,22
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682051439,Total missing days,154 days 00:00:00
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682054362,4+,2
+Block,Woolworths,Mars Wrigley,M&M's,Item_9300682054362,Total missing days,14 days 00:00:00
+Block,Woolworths,Mars Wrigley,Maltesers,Item_9300682052061,4+,2
+Block,Woolworths,Mars Wrigley,Maltesers,Item_9300682052061,Total missing days,14 days 00:00:00
+Block,Woolworths,Mars Wrigley,Maltesers,Item_9300682052092,4-12,2
+Block,Woolworths,Mars Wrigley,Maltesers,Item_9300682052092,12+,1
+Block,Woolworths,Mars Wrigley,Maltesers,Item_9300682052092,Total missing days,28 days 00:00:00
+Block,Woolworths,Mondelez,Boost,Item_9300617067269,4+,11
+Block,Woolworths,Mondelez,Boost,Item_9300617067269,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Boost,Item_9300617067474,4+,22
+Block,Woolworths,Mondelez,Boost,Item_9300617067474,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046806,4-12,11
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046806,12+,2
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046806,Total missing days,112 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046844,4-12,3
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046844,12+,7
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046844,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046882,4-12,16
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046882,12+,3
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046882,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046929,12+,4
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617046929,Total missing days,147 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617052418,Total missing days,0 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Coco,Item_9300617053729,Total missing days,0 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617003328,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617003328,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617003373,4-12,5
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617003373,12+,5
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617003373,Total missing days,140 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617021902,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617021902,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617022008,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617022008,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617026358,Total missing days,0 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041092,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041092,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041177,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041177,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041184,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041184,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041207,12+,4
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041207,Total missing days,133 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041214,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041214,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041221,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041221,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041238,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041238,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041245,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041245,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041252,4-12,1
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041252,12+,3
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041252,Total missing days,63 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041269,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041269,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041276,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041276,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041283,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617041283,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617051176,Total missing days,0 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617051220,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617051220,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617051732,Total missing days,0 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617055914,12+,2
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617055914,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617057925,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617057925,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617058014,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617058014,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617058663,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617058663,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617058717,12+,3
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617058717,Total missing days,126 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617058762,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617058762,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617058816,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617058816,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617059615,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617059615,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617059714,4-12,15
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617059714,12+,2
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617059714,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617061113,4-12,1
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617061113,12+,1
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617061113,Total missing days,35 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617062554,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617062554,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617063735,4+,11
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617063735,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617063780,4+,12
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617063780,Total missing days,84 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064121,4+,11
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064121,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064527,4+,11
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064527,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064770,4+,11
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064770,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064879,4-12,12
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064879,12+,1
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064879,Total missing days,112 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064923,4+,12
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064923,Total missing days,84 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064978,4+,12
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617064978,Total missing days,84 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065029,4+,11
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065029,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065074,4+,11
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065074,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065128,4+,12
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065128,Total missing days,84 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065173,4+,11
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065173,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065227,4+,12
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065227,Total missing days,84 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065272,4+,12
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065272,Total missing days,84 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065371,4+,11
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065371,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065470,4+,11
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065470,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065722,4+,11
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617065722,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070085,4-12,3
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070085,12+,2
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070085,Total missing days,70 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070436,4-12,9
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070436,12+,1
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070436,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070740,4-12,20
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070740,12+,1
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070740,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070887,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617070887,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617071624,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617071624,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617073987,4+,3
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617073987,Total missing days,21 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617074007,4+,3
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617074007,Total missing days,21 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617074564,4+,10
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617074564,Total missing days,70 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617075363,Total missing days,0 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617075387,4+,2
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617075387,Total missing days,14 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617409885,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617409885,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617409908,4+,22
+Block,Woolworths,Mondelez,Cadbury Purple,Item_9300617409908,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Crunchie,Item_9300617065425,4+,12
+Block,Woolworths,Mondelez,Crunchie,Item_9300617065425,Total missing days,84 days 00:00:00
+Block,Woolworths,Mondelez,Crunchie,Item_9300617069799,4+,22
+Block,Woolworths,Mondelez,Crunchie,Item_9300617069799,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Crunchie,Item_9300617071662,4+,22
+Block,Woolworths,Mondelez,Crunchie,Item_9300617071662,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Dream,Item_9300617041115,4+,22
+Block,Woolworths,Mondelez,Dream,Item_9300617041115,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Dream,Item_9300617066361,4+,11
+Block,Woolworths,Mondelez,Dream,Item_9300617066361,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Dream,Item_9300617069102,12+,1
+Block,Woolworths,Mondelez,Dream,Item_9300617069102,Total missing days,28 days 00:00:00
+Block,Woolworths,Mondelez,Freddo,Item_9300617056331,4+,22
+Block,Woolworths,Mondelez,Freddo,Item_9300617056331,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Freddo,Item_9300617062998,4-12,11
+Block,Woolworths,Mondelez,Freddo,Item_9300617062998,12+,4
+Block,Woolworths,Mondelez,Freddo,Item_9300617062998,Total missing days,147 days 00:00:00
+Block,Woolworths,Mondelez,Freddo,Item_9300617064671,4+,11
+Block,Woolworths,Mondelez,Freddo,Item_9300617064671,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Freddo,Item_9300617065524,4+,11
+Block,Woolworths,Mondelez,Freddo,Item_9300617065524,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Freddo,Item_9300617065579,4+,11
+Block,Woolworths,Mondelez,Freddo,Item_9300617065579,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Freddo,Item_9300617070009,4+,22
+Block,Woolworths,Mondelez,Freddo,Item_9300617070009,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Freddo,Item_9300617070238,4+,22
+Block,Woolworths,Mondelez,Freddo,Item_9300617070238,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Green & Blacks,Item_5011835103953,4+,22
+Block,Woolworths,Mondelez,Green & Blacks,Item_5011835103953,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Green & Blacks,Item_5011835104356,12+,2
+Block,Woolworths,Mondelez,Green & Blacks,Item_5011835104356,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Green & Blacks,Item_9300617074489,4+,2
+Block,Woolworths,Mondelez,Green & Blacks,Item_9300617074489,Total missing days,14 days 00:00:00
+Block,Woolworths,Mondelez,Milka,Item_7622210078100,4-12,7
+Block,Woolworths,Mondelez,Milka,Item_7622210078100,12+,2
+Block,Woolworths,Mondelez,Milka,Item_7622210078100,Total missing days,119 days 00:00:00
+Block,Woolworths,Mondelez,Moro,Item_9300617065623,4+,11
+Block,Woolworths,Mondelez,Moro,Item_9300617065623,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Moro,Item_9300617067511,4-12,1
+Block,Woolworths,Mondelez,Moro,Item_9300617067511,12+,1
+Block,Woolworths,Mondelez,Moro,Item_9300617067511,Total missing days,98 days 00:00:00
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041061,4+,22
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041061,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041078,4-12,5
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041078,12+,2
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041078,Total missing days,105 days 00:00:00
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041146,4+,22
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041146,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041153,4+,22
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041153,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041160,4+,22
+Block,Woolworths,Mondelez,Old Gold,Item_9300617041160,Total missing days,154 days 00:00:00
+Block,Woolworths,Mondelez,Old Gold,Item_9300617065876,4+,12
+Block,Woolworths,Mondelez,Old Gold,Item_9300617065876,Total missing days,84 days 00:00:00
+Block,Woolworths,Mondelez,Old Gold,Item_9300617065920,4+,11
+Block,Woolworths,Mondelez,Old Gold,Item_9300617065920,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Old Gold,Item_9300617065975,4-12,11
+Block,Woolworths,Mondelez,Old Gold,Item_9300617065975,12+,1
+Block,Woolworths,Mondelez,Old Gold,Item_9300617065975,Total missing days,105 days 00:00:00
+Block,Woolworths,Mondelez,Old Gold,Item_9300617066026,4+,12
+Block,Woolworths,Mondelez,Old Gold,Item_9300617066026,Total missing days,84 days 00:00:00
+Block,Woolworths,Mondelez,Old Gold,Item_9300617066071,4+,11
+Block,Woolworths,Mondelez,Old Gold,Item_9300617066071,Total missing days,77 days 00:00:00
+Block,Woolworths,Mondelez,Picnic,Item_9300617050162,4-12,2
+Block,Woolworths,Mondelez,Picnic,Item_9300617050162,12+,3
+Block,Woolworths,Mondelez,Picnic,Item_9300617050162,Total missing days,112 days 00:00:00
+Block,Woolworths,Mondelez,Picnic,Item_9300617067443,4+,22
+Block,Woolworths,Mondelez,Picnic,Item_9300617067443,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Aero,Item_9300605062559,4+,22
+Block,Woolworths,Nestle,Aero,Item_9300605062559,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Crunch,Item_9300684104652,4+,22
+Block,Woolworths,Nestle,Crunch,Item_9300684104652,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Kit Kat,Item_9300605030527,4+,22
+Block,Woolworths,Nestle,Kit Kat,Item_9300605030527,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Kit Kat,Item_9300605099517,4+,17
+Block,Woolworths,Nestle,Kit Kat,Item_9300605099517,Total missing days,119 days 00:00:00
+Block,Woolworths,Nestle,Kit Kat,Item_9300605111363,4+,22
+Block,Woolworths,Nestle,Kit Kat,Item_9300605111363,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Kit Kat,Item_9300605117563,4-12,11
+Block,Woolworths,Nestle,Kit Kat,Item_9300605117563,12+,1
+Block,Woolworths,Nestle,Kit Kat,Item_9300605117563,Total missing days,91 days 00:00:00
+Block,Woolworths,Nestle,Kit Kat,Item_9300605117587,4+,22
+Block,Woolworths,Nestle,Kit Kat,Item_9300605117587,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Kit Kat,Item_9300605123014,4+,22
+Block,Woolworths,Nestle,Kit Kat,Item_9300605123014,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Kit Kat,Item_9300605123984,4+,16
+Block,Woolworths,Nestle,Kit Kat,Item_9300605123984,Total missing days,112 days 00:00:00
+Block,Woolworths,Nestle,Milky Bar,Item_9300605061828,4+,22
+Block,Woolworths,Nestle,Milky Bar,Item_9300605061828,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Milky Bar,Item_9300605120457,4+,22
+Block,Woolworths,Nestle,Milky Bar,Item_9300605120457,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Milky Bar,Item_9300605228771,4+,22
+Block,Woolworths,Nestle,Milky Bar,Item_9300605228771,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Rolo,Item_9300684108858,4+,22
+Block,Woolworths,Nestle,Rolo,Item_9300684108858,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Smarties,Item_9300605037649,4+,22
+Block,Woolworths,Nestle,Smarties,Item_9300605037649,Total missing days,154 days 00:00:00
+Block,Woolworths,Nestle,Smarties,Item_9300605099302,4+,12
+Block,Woolworths,Nestle,Smarties,Item_9300605099302,Total missing days,84 days 00:00:00
+Block,Woolworths,Private Label,Woolworths,Item_9300633577759,Total missing days,0 days 00:00:00
+Block,Woolworths,Private Label,Woolworths Select,Item_9300633990329,4-12,2
+Block,Woolworths,Private Label,Woolworths Select,Item_9300633990329,12+,2
+Block,Woolworths,Private Label,Woolworths Select,Item_9300633990329,Total missing days,77 days 00:00:00
+Block,Woolworths,Private Label,Woolworths Select,Item_9300633990336,4-12,2
+Block,Woolworths,Private Label,Woolworths Select,Item_9300633990336,12+,6
+Block,Woolworths,Private Label,Woolworths Select,Item_9300633990336,Total missing days,147 days 00:00:00
+Block,Woolworths,Private Label,Woolworths Select,Item_9300633990367,4-12,1
+Block,Woolworths,Private Label,Woolworths Select,Item_9300633990367,12+,1
+Block,Woolworths,Private Label,Woolworths Select,Item_9300633990367,Total missing days,42 days 00:00:00
+Gifting,Coles,Mars Wrigley,Celebrations,Item_9300682040822,4-12,16
+Gifting,Coles,Mars Wrigley,Celebrations,Item_9300682040822,12+,2
+Gifting,Coles,Mars Wrigley,Celebrations,Item_9300682040822,Total missing days,140 days 00:00:00
+Gifting,Coles,Mars Wrigley,Celebrations,Item_9300682044516,4+,22
+Gifting,Coles,Mars Wrigley,Celebrations,Item_9300682044516,Total missing days,154 days 00:00:00
+Gifting,Coles,Mars Wrigley,Celebrations,Item_9300682046473,4-12,18
+Gifting,Coles,Mars Wrigley,Celebrations,Item_9300682046473,12+,1
+Gifting,Coles,Mars Wrigley,Celebrations,Item_9300682046473,Total missing days,154 days 00:00:00
+Gifting,Coles,Mars Wrigley,Celebrations,Item_9300682050098,4+,22
+Gifting,Coles,Mars Wrigley,Celebrations,Item_9300682050098,Total missing days,154 days 00:00:00
+Gifting,Coles,Mars Wrigley,M&M's,Item_9300682043007,4+,22
+Gifting,Coles,Mars Wrigley,M&M's,Item_9300682043007,Total missing days,154 days 00:00:00
+Gifting,Coles,Mars Wrigley,Maltesers,Item_9300682041348,4+,22
+Gifting,Coles,Mars Wrigley,Maltesers,Item_9300682041348,Total missing days,154 days 00:00:00
+Gifting,Coles,Mars Wrigley,Maltesers,Item_9300682053723,4+,22
+Gifting,Coles,Mars Wrigley,Maltesers,Item_9300682053723,Total missing days,154 days 00:00:00
+Gifting,Woolworths,Mars Wrigley,Celebrations,Item_9300682044516,4+,22
+Gifting,Woolworths,Mars Wrigley,Celebrations,Item_9300682044516,Total missing days,154 days 00:00:00
+Gifting,Woolworths,Mars Wrigley,Celebrations,Item_9300682046473,4-12,13
+Gifting,Woolworths,Mars Wrigley,Celebrations,Item_9300682046473,12+,3
+Gifting,Woolworths,Mars Wrigley,Celebrations,Item_9300682046473,Total missing days,147 days 00:00:00
+Gifting,Woolworths,Mars Wrigley,Celebrations,Item_9300682050098,4-12,17
+Gifting,Woolworths,Mars Wrigley,Celebrations,Item_9300682050098,12+,2
+Gifting,Woolworths,Mars Wrigley,Celebrations,Item_9300682050098,Total missing days,154 days 00:00:00
+Gifting,Woolworths,Mars Wrigley,Celebrations,Item_9300682051149,Total missing days,0 days 00:00:00
+Gifting,Woolworths,Mars Wrigley,M&M's,Item_9300682043007,4+,22
+Gifting,Woolworths,Mars Wrigley,M&M's,Item_9300682043007,Total missing days,154 days 00:00:00
+Gifting,Woolworths,Mars Wrigley,Maltesers,Item_9300682041348,4+,22
+Gifting,Woolworths,Mars Wrigley,Maltesers,Item_9300682041348,Total missing days,154 days 00:00:00
+Gifting,Woolworths,Mars Wrigley,Maltesers,Item_9300682050876,12+,1
+Gifting,Woolworths,Mars Wrigley,Maltesers,Item_9300682050876,Total missing days,140 days 00:00:00
+Gifting,Woolworths,Mars Wrigley,Maltesers,Item_9300682053747,4-12,20
+Gifting,Woolworths,Mars Wrigley,Maltesers,Item_9300682053747,12+,1
+Gifting,Woolworths,Mars Wrigley,Maltesers,Item_9300682053747,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Airwaves,Item_9300613100403,4+,22
+Gum,Coles,Mars Wrigley,Airwaves,Item_9300613100403,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Eclipse,Item_9300613102223,4+,22
+Gum,Coles,Mars Wrigley,Eclipse,Item_9300613102223,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Eclipse,Item_9300613102254,4+,22
+Gum,Coles,Mars Wrigley,Eclipse,Item_9300613102254,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093519441,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_0000093519441,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093545037,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_0000093545037,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093545044,4-12,8
+Gum,Coles,Mars Wrigley,Extra,Item_0000093545044,12+,3
+Gum,Coles,Mars Wrigley,Extra,Item_0000093545044,Total missing days,105 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093548625,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_0000093548625,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093550321,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_0000093550321,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093551342,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_0000093551342,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093552615,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_0000093552615,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093554848,4+,8
+Gum,Coles,Mars Wrigley,Extra,Item_0000093554848,Total missing days,56 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093554855,4+,8
+Gum,Coles,Mars Wrigley,Extra,Item_0000093554855,Total missing days,56 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093554862,4+,8
+Gum,Coles,Mars Wrigley,Extra,Item_0000093554862,Total missing days,56 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093554879,4+,8
+Gum,Coles,Mars Wrigley,Extra,Item_0000093554879,Total missing days,56 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093613361,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_0000093613361,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093613385,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_0000093613385,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_0000093613910,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_0000093613910,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613005067,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613005067,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613060165,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613060165,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613060172,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613060172,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613100335,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613100335,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613103541,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613103541,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613104548,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613104548,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613106696,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613106696,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613106726,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613106726,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613108614,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613108614,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613108638,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613108638,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613109604,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613109604,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613109673,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613109673,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613110563,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613110563,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613110587,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613110587,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613110600,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613110600,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613110624,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613110624,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613111003,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613111003,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613111379,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613111379,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613112109,4-12,18
+Gum,Coles,Mars Wrigley,Extra,Item_9300613112109,12+,2
+Gum,Coles,Mars Wrigley,Extra,Item_9300613112109,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Extra,Item_9300613113854,4+,22
+Gum,Coles,Mars Wrigley,Extra,Item_9300613113854,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_0000093613200,4-12,8
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_0000093613200,12+,4
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_0000093613200,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_0000093613583,4+,22
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_0000093613583,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_0000093613590,4+,22
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_0000093613590,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_9300613002158,4-12,9
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_9300613002158,12+,6
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_9300613002158,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_9300613101295,4+,22
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_9300613101295,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_9300613101301,4+,22
+Gum,Coles,Mars Wrigley,Hubba Bubba,Item_9300613101301,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Juicy Fruit,Item_9300613002059,4-12,20
+Gum,Coles,Mars Wrigley,Juicy Fruit,Item_9300613002059,12+,1
+Gum,Coles,Mars Wrigley,Juicy Fruit,Item_9300613002059,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Juicy Fruit,Item_9300613051064,4+,22
+Gum,Coles,Mars Wrigley,Juicy Fruit,Item_9300613051064,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,P.K.,Item_9300613050197,4+,22
+Gum,Coles,Mars Wrigley,P.K.,Item_9300613050197,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,P.K.,Item_9300613051057,4+,22
+Gum,Coles,Mars Wrigley,P.K.,Item_9300613051057,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Starburst,Item_9300613112512,4-12,13
+Gum,Coles,Mars Wrigley,Starburst,Item_9300613112512,12+,3
+Gum,Coles,Mars Wrigley,Starburst,Item_9300613112512,Total missing days,147 days 00:00:00
+Gum,Coles,Mars Wrigley,Starburst,Item_9300613112543,4+,22
+Gum,Coles,Mars Wrigley,Starburst,Item_9300613112543,Total missing days,154 days 00:00:00
+Gum,Coles,Mars Wrigley,Starburst,Item_9300613113397,4+,22
+Gum,Coles,Mars Wrigley,Starburst,Item_9300613113397,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Airwaves,Item_9300613100403,4+,22
+Gum,Woolworths,Mars Wrigley,Airwaves,Item_9300613100403,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Eclipse,Item_9300613102223,4+,22
+Gum,Woolworths,Mars Wrigley,Eclipse,Item_9300613102223,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Eclipse,Item_9300613102254,4+,22
+Gum,Woolworths,Mars Wrigley,Eclipse,Item_9300613102254,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093519441,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093519441,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093544160,4-12,19
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093544160,12+,1
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093544160,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093545037,4+,20
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093545037,Total missing days,140 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093545044,4-12,6
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093545044,12+,3
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093545044,Total missing days,91 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093548625,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093548625,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093551342,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093551342,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093552615,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093552615,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093554848,4+,10
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093554848,Total missing days,70 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093554855,4+,10
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093554855,Total missing days,70 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093613385,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093613385,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093613910,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_0000093613910,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613060165,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613060165,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613060172,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613060172,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613100335,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613100335,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613102759,4-12,4
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613102759,12+,1
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613102759,Total missing days,49 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613103541,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613103541,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613104548,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613104548,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613108614,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613108614,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613108638,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613108638,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613109604,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613109604,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613109673,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613109673,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613110563,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613110563,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613110587,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613110587,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613110600,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613110600,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613110624,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613110624,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613111003,4-12,20
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613111003,12+,1
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613111003,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613111379,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613111379,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613113854,4+,22
+Gum,Woolworths,Mars Wrigley,Extra,Item_9300613113854,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_0000093613200,4-12,9
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_0000093613200,12+,2
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_0000093613200,Total missing days,119 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_0000093613583,4+,22
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_0000093613583,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_0000093613590,4+,22
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_0000093613590,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_9300613002158,4-12,12
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_9300613002158,12+,3
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_9300613002158,Total missing days,140 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_9300613101301,4+,22
+Gum,Woolworths,Mars Wrigley,Hubba Bubba,Item_9300613101301,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Juicy Fruit,Item_9300613002059,4-12,6
+Gum,Woolworths,Mars Wrigley,Juicy Fruit,Item_9300613002059,12+,4
+Gum,Woolworths,Mars Wrigley,Juicy Fruit,Item_9300613002059,Total missing days,133 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Juicy Fruit,Item_9300613051064,4+,22
+Gum,Woolworths,Mars Wrigley,Juicy Fruit,Item_9300613051064,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,P.K.,Item_9300613050197,4+,22
+Gum,Woolworths,Mars Wrigley,P.K.,Item_9300613050197,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,P.K.,Item_9300613051057,4+,22
+Gum,Woolworths,Mars Wrigley,P.K.,Item_9300613051057,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Starburst,Item_9300613112512,4-12,1
+Gum,Woolworths,Mars Wrigley,Starburst,Item_9300613112512,12+,3
+Gum,Woolworths,Mars Wrigley,Starburst,Item_9300613112512,Total missing days,133 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Starburst,Item_9300613112543,4-12,20
+Gum,Woolworths,Mars Wrigley,Starburst,Item_9300613112543,12+,1
+Gum,Woolworths,Mars Wrigley,Starburst,Item_9300613112543,Total missing days,154 days 00:00:00
+Gum,Woolworths,Mars Wrigley,Starburst,Item_9300613113397,4-12,19
+Gum,Woolworths,Mars Wrigley,Starburst,Item_9300613113397,12+,1
+Gum,Woolworths,Mars Wrigley,Starburst,Item_9300613113397,Total missing days,154 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093540575,4+,22
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093540575,Total missing days,154 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093540582,4+,22
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093540582,Total missing days,154 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093540896,4+,22
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093540896,Total missing days,154 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093548120,4-12,7
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093548120,12+,7
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093548120,Total missing days,154 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093553391,4+,8
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093553391,Total missing days,56 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093553407,4+,8
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093553407,Total missing days,56 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093553414,4+,8
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093553414,Total missing days,56 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093613392,4-12,3
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093613392,12+,3
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093613392,Total missing days,112 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093613477,4+,22
+Mints,Coles,Mars Wrigley,Eclipse,Item_0000093613477,Total missing days,154 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_9300613112147,4+,22
+Mints,Coles,Mars Wrigley,Eclipse,Item_9300613112147,Total missing days,154 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_9300613112154,4+,22
+Mints,Coles,Mars Wrigley,Eclipse,Item_9300613112154,Total missing days,154 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_9300613114264,4+,6
+Mints,Coles,Mars Wrigley,Eclipse,Item_9300613114264,Total missing days,42 days 00:00:00
+Mints,Coles,Mars Wrigley,Eclipse,Item_9300613114288,4+,6
+Mints,Coles,Mars Wrigley,Eclipse,Item_9300613114288,Total missing days,42 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093540575,4+,22
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093540575,Total missing days,154 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093540582,4+,22
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093540582,Total missing days,154 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093540896,4+,22
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093540896,Total missing days,154 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093548120,4-12,5
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093548120,12+,4
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093548120,Total missing days,126 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093549912,12+,3
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093549912,Total missing days,126 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093553032,4+,22
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093553032,Total missing days,154 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093553391,4+,9
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093553391,Total missing days,63 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093553407,4-12,9
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093553407,12+,1
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093553407,Total missing days,77 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093613392,Total missing days,0 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093613477,4+,22
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_0000093613477,Total missing days,154 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_9300613109000,Total missing days,0 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_9300613112147,4+,22
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_9300613112147,Total missing days,154 days 00:00:00
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_9300613112154,4+,22
+Mints,Woolworths,Mars Wrigley,Eclipse,Item_9300613112154,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Bounty,Item_9300682052283,4+,22
+Self Consumption,Coles,Mars Wrigley,Bounty,Item_9300682052283,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Bounty,Item_93682022,4-12,15
+Self Consumption,Coles,Mars Wrigley,Bounty,Item_93682022,12+,3
+Self Consumption,Coles,Mars Wrigley,Bounty,Item_93682022,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Bounty,Item_93682510,4-12,4
+Self Consumption,Coles,Mars Wrigley,Bounty,Item_93682510,12+,8
+Self Consumption,Coles,Mars Wrigley,Bounty,Item_93682510,Total missing days,147 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Galaxy,Item_5000159022521,4+,22
+Self Consumption,Coles,Mars Wrigley,Galaxy,Item_5000159022521,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Galaxy,Item_5000159023948,4+,22
+Self Consumption,Coles,Mars Wrigley,Galaxy,Item_5000159023948,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Galaxy,Item_5000159470292,4+,22
+Self Consumption,Coles,Mars Wrigley,Galaxy,Item_5000159470292,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,M&M's,Item_9300682051507,4+,22
+Self Consumption,Coles,Mars Wrigley,M&M's,Item_9300682051507,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,M&M's,Item_9300682053761,4+,17
+Self Consumption,Coles,Mars Wrigley,M&M's,Item_9300682053761,Total missing days,119 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,M&M's,Item_93682152,4+,22
+Self Consumption,Coles,Mars Wrigley,M&M's,Item_93682152,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Maltesers,Item_9300682038911,4+,22
+Self Consumption,Coles,Mars Wrigley,Maltesers,Item_9300682038911,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Maltesers,Item_9300682045421,4+,22
+Self Consumption,Coles,Mars Wrigley,Maltesers,Item_9300682045421,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Maltesers,Item_93682763,4+,22
+Self Consumption,Coles,Mars Wrigley,Maltesers,Item_93682763,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Mars,Item_9300682002585,4+,22
+Self Consumption,Coles,Mars Wrigley,Mars,Item_9300682002585,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Mars,Item_9300682035521,4+,22
+Self Consumption,Coles,Mars Wrigley,Mars,Item_9300682035521,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Mars,Item_9300682050203,Total missing days,0 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Mars,Item_93682459,4+,22
+Self Consumption,Coles,Mars Wrigley,Mars,Item_93682459,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Milky Way,Item_9300682046480,4+,22
+Self Consumption,Coles,Mars Wrigley,Milky Way,Item_9300682046480,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Snickers,Item_9300682006149,4+,22
+Self Consumption,Coles,Mars Wrigley,Snickers,Item_9300682006149,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Snickers,Item_9300682052825,4+,22
+Self Consumption,Coles,Mars Wrigley,Snickers,Item_9300682052825,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Snickers,Item_9300682052856,4+,22
+Self Consumption,Coles,Mars Wrigley,Snickers,Item_9300682052856,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Snickers,Item_93682091,4+,22
+Self Consumption,Coles,Mars Wrigley,Snickers,Item_93682091,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Starburst,Item_0000093555296,Total missing days,0 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Twix,Item_5000159459228,4+,22
+Self Consumption,Coles,Mars Wrigley,Twix,Item_5000159459228,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Twix,Item_6221134006193,4+,22
+Self Consumption,Coles,Mars Wrigley,Twix,Item_6221134006193,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Twix,Item_9300682035507,4-12,4
+Self Consumption,Coles,Mars Wrigley,Twix,Item_9300682035507,12+,7
+Self Consumption,Coles,Mars Wrigley,Twix,Item_9300682035507,Total missing days,154 days 00:00:00
+Self Consumption,Coles,Mars Wrigley,Twix,Item_9300682035514,4+,22
+Self Consumption,Coles,Mars Wrigley,Twix,Item_9300682035514,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Bounty,Item_9300682052283,4+,22
+Self Consumption,Woolworths,Mars Wrigley,Bounty,Item_9300682052283,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Bounty,Item_93682510,4-12,9
+Self Consumption,Woolworths,Mars Wrigley,Bounty,Item_93682510,12+,4
+Self Consumption,Woolworths,Mars Wrigley,Bounty,Item_93682510,Total missing days,126 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Galaxy,Item_5000159470292,4+,22
+Self Consumption,Woolworths,Mars Wrigley,Galaxy,Item_5000159470292,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_40000508830,4+,22
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_40000508830,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_9300682051507,4+,22
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_9300682051507,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_9300682053761,4+,15
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_9300682053761,Total missing days,105 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_93682152,4+,22
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_93682152,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_93682664,4-12,1
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_93682664,12+,1
+Self Consumption,Woolworths,Mars Wrigley,M&M's,Item_93682664,Total missing days,133 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Maltesers,Item_9300682045421,4+,22
+Self Consumption,Woolworths,Mars Wrigley,Maltesers,Item_9300682045421,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Maltesers,Item_93682763,12+,1
+Self Consumption,Woolworths,Mars Wrigley,Maltesers,Item_93682763,Total missing days,77 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Mars,Item_9300682035521,12+,3
+Self Consumption,Woolworths,Mars Wrigley,Mars,Item_9300682035521,Total missing days,56 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Mars,Item_9300682050203,12+,1
+Self Consumption,Woolworths,Mars Wrigley,Mars,Item_9300682050203,Total missing days,35 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Mars,Item_93682459,4+,22
+Self Consumption,Woolworths,Mars Wrigley,Mars,Item_93682459,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Revels,Item_5000159001335,4+,22
+Self Consumption,Woolworths,Mars Wrigley,Revels,Item_5000159001335,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Snickers,Item_9300682052825,4+,22
+Self Consumption,Woolworths,Mars Wrigley,Snickers,Item_9300682052825,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Snickers,Item_9300682052856,Total missing days,0 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Starburst,Item_0000093555296,Total missing days,0 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Twix,Item_5000159459228,4+,22
+Self Consumption,Woolworths,Mars Wrigley,Twix,Item_5000159459228,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Twix,Item_6221134006193,4+,22
+Self Consumption,Woolworths,Mars Wrigley,Twix,Item_6221134006193,Total missing days,154 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Twix,Item_9300682035507,12+,1
+Self Consumption,Woolworths,Mars Wrigley,Twix,Item_9300682035507,Total missing days,14 days 00:00:00
+Self Consumption,Woolworths,Mars Wrigley,Twix,Item_9300682035514,4+,2
+Self Consumption,Woolworths,Mars Wrigley,Twix,Item_9300682035514,Total missing days,14 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Bounty,Item_9300682002820,4+,22
+Sharepacks,Coles,Mars Wrigley,Bounty,Item_9300682002820,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Bounty,Item_9300682052306,4+,22
+Sharepacks,Coles,Mars Wrigley,Bounty,Item_9300682052306,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,M&M's,Item_9300682042260,4+,22
+Sharepacks,Coles,Mars Wrigley,M&M's,Item_9300682042260,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Maltesers,Item_9300682003896,4+,22
+Sharepacks,Coles,Mars Wrigley,Maltesers,Item_9300682003896,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Maltesers,Item_9300682035613,4+,22
+Sharepacks,Coles,Mars Wrigley,Maltesers,Item_9300682035613,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Mars,Item_9300682035620,4+,22
+Sharepacks,Coles,Mars Wrigley,Mars,Item_9300682035620,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Mars,Item_9300682036276,4+,22
+Sharepacks,Coles,Mars Wrigley,Mars,Item_9300682036276,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Mars Brands Combined,Item_9300682042581,4+,22
+Sharepacks,Coles,Mars Wrigley,Mars Brands Combined,Item_9300682042581,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Milky Way,Item_9300682035637,4+,22
+Sharepacks,Coles,Mars Wrigley,Milky Way,Item_9300682035637,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Milky Way,Item_9300682036313,4+,22
+Sharepacks,Coles,Mars Wrigley,Milky Way,Item_9300682036313,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Skittles,Item_9300613112598,4+,22
+Sharepacks,Coles,Mars Wrigley,Skittles,Item_9300613112598,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Snickers,Item_9300682035651,4+,22
+Sharepacks,Coles,Mars Wrigley,Snickers,Item_9300682035651,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Snickers,Item_9300682036290,4+,22
+Sharepacks,Coles,Mars Wrigley,Snickers,Item_9300682036290,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Snickers,Item_9300682052863,4+,22
+Sharepacks,Coles,Mars Wrigley,Snickers,Item_9300682052863,Total missing days,154 days 00:00:00
+Sharepacks,Coles,Mars Wrigley,Twix,Item_9300682007726,4+,22
+Sharepacks,Coles,Mars Wrigley,Twix,Item_9300682007726,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Bounty,Item_9300682002820,4-12,1
+Sharepacks,Woolworths,Mars Wrigley,Bounty,Item_9300682002820,12+,3
+Sharepacks,Woolworths,Mars Wrigley,Bounty,Item_9300682002820,Total missing days,133 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Bounty,Item_9300682052306,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Bounty,Item_9300682052306,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,M&M's,Item_9300682042260,4+,22
+Sharepacks,Woolworths,Mars Wrigley,M&M's,Item_9300682042260,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Maltesers,Item_9300682035613,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Maltesers,Item_9300682035613,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Maltesers,Item_9300682053488,4+,17
+Sharepacks,Woolworths,Mars Wrigley,Maltesers,Item_9300682053488,Total missing days,119 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Mars,Item_9300682035620,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Mars,Item_9300682035620,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Mars,Item_9300682036276,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Mars,Item_9300682036276,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Mars Brands Combined,Item_9300682042581,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Mars Brands Combined,Item_9300682042581,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Milky Way,Item_9300682035637,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Milky Way,Item_9300682035637,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Milky Way,Item_9300682036313,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Milky Way,Item_9300682036313,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Snickers,Item_9300682035651,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Snickers,Item_9300682035651,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Snickers,Item_9300682036290,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Snickers,Item_9300682036290,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Snickers,Item_9300682052863,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Snickers,Item_9300682052863,Total missing days,154 days 00:00:00
+Sharepacks,Woolworths,Mars Wrigley,Twix,Item_9300682007726,4+,22
+Sharepacks,Woolworths,Mars Wrigley,Twix,Item_9300682007726,Total missing days,154 days 00:00:00
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613105446,4+,22
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613105446,Total missing days,154 days 00:00:00
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613105460,4+,22
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613105460,Total missing days,154 days 00:00:00
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613107778,4-12,5
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613107778,12+,5
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613107778,Total missing days,119 days 00:00:00
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613113045,4+,22
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613113045,Total missing days,154 days 00:00:00
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613113304,4+,22
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613113304,Total missing days,154 days 00:00:00
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613114677,4+,10
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613114677,Total missing days,70 days 00:00:00
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613114714,4+,8
+Sugar,Coles,Mars Wrigley,Skittles,Item_9300613114714,Total missing days,56 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613107723,12+,2
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613107723,Total missing days,35 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613110662,Total missing days,0 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613111614,Total missing days,0 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613111621,12+,1
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613111621,Total missing days,91 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613114431,4+,10
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613114431,Total missing days,70 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613114448,4+,10
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613114448,Total missing days,70 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613114462,4+,10
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613114462,Total missing days,70 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613114479,4+,10
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300613114479,Total missing days,70 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300682017428,12+,1
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300682017428,Total missing days,28 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300682017466,Total missing days,0 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300682022651,Total missing days,0 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300682034081,12+,1
+Sugar,Coles,Mars Wrigley,Starburst,Item_9300682034081,Total missing days,112 days 00:00:00
+Sugar,Coles,Mars Wrigley,Starburst,Item_9310449032885,Total missing days,0 days 00:00:00
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613105446,4+,22
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613105446,Total missing days,154 days 00:00:00
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613105460,4+,22
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613105460,Total missing days,154 days 00:00:00
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613107778,4-12,1
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613107778,12+,1
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613107778,Total missing days,112 days 00:00:00
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613113045,4+,22
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613113045,Total missing days,154 days 00:00:00
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613113304,4+,22
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613113304,Total missing days,154 days 00:00:00
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613114677,4+,11
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613114677,Total missing days,77 days 00:00:00
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613114714,4+,7
+Sugar,Woolworths,Mars Wrigley,Skittles,Item_9300613114714,Total missing days,49 days 00:00:00
+Sugar,Woolworths,Mars Wrigley,Starburst,Item_9300613111614,Total missing days,0 days 00:00:00
+Sugar,Woolworths,Mars Wrigley,Starburst,Item_9300682017466,Total missing days,0 days 00:00:00
+Sugar,Woolworths,Mars Wrigley,Starburst,Item_9310449032885,Total missing days,0 days 00:00:00
