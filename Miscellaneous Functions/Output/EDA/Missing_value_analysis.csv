@@ -1,0 +1,116 @@
+,Segment,Manufacturer,Brand,%missing
+0,Bitesize,All Other Manufacturer,Byron Bay,61.54
+1,Bitesize,All Other Manufacturer,Cookie Dough Bites,0.0
+2,Bitesize,All Other Manufacturer,Frey,93.59
+3,Bitesize,All Other Manufacturer,Hersheys,0.0
+4,Bitesize,All Other Manufacturer,Junior Mints,0.0
+5,Bitesize,All Other Manufacturer,Kiwiland,80.77
+6,Bitesize,All Other Manufacturer,Leda,51.92
+7,Bitesize,All Other Manufacturer,Mcvities,59.62
+8,Bitesize,All Other Manufacturer,Naturally Good,78.21
+9,Bitesize,All Other Manufacturer,Ovalteenies,0.0
+10,Bitesize,All Other Manufacturer,Patons,47.44
+11,Bitesize,All Other Manufacturer,Reese's,0.0
+12,Bitesize,All Other Manufacturer,Sweet Season,9.62
+13,Bitesize,Darrell Lea,Darrell Lea,0.0
+14,Bitesize,Ferrero,Kinder,1.92
+15,Bitesize,Lindt & Sprungli,Lindt,29.49
+16,Bitesize,Mars Wrigley,Galaxy,0.0
+17,Bitesize,Mars Wrigley,M&M's,0.0
+18,Bitesize,Mars Wrigley,Maltesers,0.0
+19,Bitesize,Mars Wrigley,Mars,11.54
+20,Bitesize,Mars Wrigley,Pods,0.0
+21,Bitesize,Mars Wrigley,Snickers,15.38
+22,Bitesize,Mondelez,Boost,44.23
+23,Bitesize,Mondelez,Cadbury Purple,0.0
+24,Bitesize,Mondelez,Cherry Ripe,71.79
+25,Bitesize,Mondelez,Crunchie,59.62
+26,Bitesize,Mondelez,Curly Wurly,33.33
+27,Bitesize,Mondelez,Europe,76.92
+28,Bitesize,Mondelez,Flake,0.0
+29,Bitesize,Mondelez,Freddo,3.21
+30,Bitesize,Mondelez,Green & Blacks,76.92
+31,Bitesize,Mondelez,Twirl,10.26
+32,Bitesize,Nestle,Allens,0.0
+33,Bitesize,Nestle,Butterfinger,22.44
+34,Bitesize,Nestle,Kit Kat,92.95
+35,Bitesize,Nestle,Milky Bar,92.95
+36,Bitesize,Nestle,Smarties,0.0
+37,Bitesize,Private Label,Coles,0.0
+38,Bitesize,Private Label,Homebrand,3.21
+39,Bitesize,Private Label,Woolworths,92.95
+40,Bitesize,Private Label,Woolworths Select,0.0
+41,Bitesize,Robern Menz,Menz,0.0
+42,Block,All Other Manufacturer,Alter Eco,44.87
+43,Block,All Other Manufacturer,Arnott's,69.23
+44,Block,All Other Manufacturer,Coulsons,19.87
+45,Block,All Other Manufacturer,Eskal,85.26
+46,Block,All Other Manufacturer,Frey,0.0
+47,Block,All Other Manufacturer,Naked Truth,69.87
+48,Block,All Other Manufacturer,Perugina,68.59
+49,Block,All Other Manufacturer,Ritter,11.54
+50,Block,All Other Manufacturer,Sweet Williams,0.0
+51,Block,All Other Manufacturer,Whittakers,0.0
+52,Block,Darrell Lea,Darrell Lea,0.0
+53,Block,Lindt & Sprungli,Lindt,0.0
+54,Block,Lindt & Sprungli,Lindt Excellence,0.0
+55,Block,Lindt & Sprungli,Lindt Lindor,0.0
+56,Block,Mars Wrigley,M&M's,0.64
+57,Block,Mars Wrigley,Maltesers,39.1
+58,Block,Mondelez,Boost,33.33
+59,Block,Mondelez,Cadbury,80.13
+60,Block,Mondelez,Cadbury Coco,1.92
+61,Block,Mondelez,Cadbury Purple,0.0
+62,Block,Mondelez,Crunchie,33.97
+63,Block,Mondelez,Dream,0.0
+64,Block,Mondelez,Freddo,11.54
+65,Block,Mondelez,Green & Blacks,0.0
+66,Block,Mondelez,Milka,4.49
+67,Block,Mondelez,Moro,48.72
+68,Block,Mondelez,Old Gold,0.0
+69,Block,Mondelez,Picnic,1.28
+70,Block,Nestle,Aero,0.0
+71,Block,Nestle,Allens,0.0
+72,Block,Nestle,Crunch,0.0
+73,Block,Nestle,Golden Rough,83.33
+74,Block,Nestle,Kit Kat,0.0
+75,Block,Nestle,Milky Bar,0.0
+76,Block,Nestle,Rolo,0.0
+77,Block,Nestle,Smarties,0.0
+78,Block,Nestle,Violet Crumble,64.1
+79,Block,Private Label,Coles,0.0
+80,Block,Private Label,Woolworths,52.56
+81,Block,Private Label,Woolworths Select,35.26
+82,Gifting,Mars Wrigley,Celebrations,0.0
+83,Gifting,Mars Wrigley,M&M's,0.0
+84,Gifting,Mars Wrigley,Maltesers,0.0
+85,Gum,Mars Wrigley,5,59.62
+86,Gum,Mars Wrigley,Airwaves,0.0
+87,Gum,Mars Wrigley,Eclipse,0.0
+88,Gum,Mars Wrigley,Extra,0.0
+89,Gum,Mars Wrigley,Hubba Bubba,0.0
+90,Gum,Mars Wrigley,Juicy Fruit,0.0
+91,Gum,Mars Wrigley,P.K.,0.0
+92,Gum,Mars Wrigley,Starburst,12.18
+93,Mints,Mars Wrigley,Eclipse,0.0
+94,Self Consumption,Mars Wrigley,Bounty,0.0
+95,Self Consumption,Mars Wrigley,Galaxy,0.0
+96,Self Consumption,Mars Wrigley,M&M's,0.0
+97,Self Consumption,Mars Wrigley,Maltesers,0.0
+98,Self Consumption,Mars Wrigley,Mars,0.0
+99,Self Consumption,Mars Wrigley,Milky Way,1.28
+100,Self Consumption,Mars Wrigley,Revels,1.28
+101,Self Consumption,Mars Wrigley,Snickers,0.0
+102,Self Consumption,Mars Wrigley,Starburst,71.15
+103,Self Consumption,Mars Wrigley,Twix,0.0
+104,Sharepacks,Mars Wrigley,Bounty,0.0
+105,Sharepacks,Mars Wrigley,M&M's,0.0
+106,Sharepacks,Mars Wrigley,Maltesers,0.0
+107,Sharepacks,Mars Wrigley,Mars,0.0
+108,Sharepacks,Mars Wrigley,Mars Brands Combined,0.0
+109,Sharepacks,Mars Wrigley,Milky Way,0.0
+110,Sharepacks,Mars Wrigley,Skittles,5.13
+111,Sharepacks,Mars Wrigley,Snickers,0.0
+112,Sharepacks,Mars Wrigley,Twix,0.0
+113,Sugar,Mars Wrigley,Skittles,0.0
+114,Sugar,Mars Wrigley,Starburst,3.85
